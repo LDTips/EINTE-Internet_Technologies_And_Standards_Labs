@@ -1,0 +1,15 @@
+GET /time/now HTTP/1.1
+Host: postman-echo.com
+User-Agent: curl/7.65.3
+Accept: */*
+
+HTTP/1.1 200 OK
+Date: Thu, 20 Jan 2022 15:48:20 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 29
+Connection: keep-alive
+ETag: W/"1d-NT3osqDDrRttNonmlFi6ThvKBvk"
+Vary: Accept-Encoding
+set-cookie: sails.sid=s%3ArOa1sKPpXSK2TQe_bunUZwNr3YptmAFS.lD%2BiciJlj%2F3MiGl8gGpRk8PwGFYWUfPMQ2Dt9sNRbVk; Path=/; HttpOnly
+
+Thu, 20 Jan 2022 15:48:20 GMT

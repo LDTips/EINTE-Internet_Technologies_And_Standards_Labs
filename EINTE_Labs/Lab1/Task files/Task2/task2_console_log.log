@@ -1,0 +1,453 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.11.14 14:05:27 =~=~=~=~=~=~=~=~=~=~=~=
+login as: tcp
+tcp@192.168.0.230's password: 
+Linux IPlab 4.9.0-4-amd64 #1 SMP Debian 4.9.51-1 (2017-09-28) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sun Nov 14 14:02:53 2021 from 10.0.2.2
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          5
+
+TCP1 Average Throughput = 6.280761066666666 [Mbps]
+      Stable Throughput = 6.6099000000000085 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          5
+
+TCP1 Average Throughput = 6.4276010666666661 [Mbps]
+      Stable Throughput = 6.7654714285714368 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          10
+
+TCP1 Average Throughput = 6.9717610666666667 [Mbps]
+      Stable Throughput = 7.3191000000000095 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          15
+
+TCP1 Average Throughput = 7.2560410666666666 [Mbps]
+      Stable Throughput = 7.6658571428571518 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          20
+
+TCP1 Average Throughput = 7.7130810666666667 [Mbps]
+      Stable Throughput = 8.038971428571438 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          25
+
+TCP1 Average Throughput = 7.6419610666666662 [Mbps]
+      Stable Throughput = 8.0566714285714376 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          25
+
+TCP1 Average Throughput = 7.323201066666666 [Mbps]
+      Stable Throughput = 7.7256000000000089 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          30
+
+TCP1 Average Throughput = 7.7786410666666663 [Mbps]
+      Stable Throughput = 8.2049142857142954 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          35
+
+TCP1 Average Throughput = 7.9189610666666663 [Mbps]
+      Stable Throughput = 8.3376428571428676 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          40
+
+TCP1 Average Throughput = 8.0436810666666663 [Mbps]
+      Stable Throughput = 8.4681000000000104 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          45
+
+TCP1 Average Throughput = 8.3828010666666657 [Mbps]
+      Stable Throughput = 8.6215714285714391 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          50
+
+TCP1 Average Throughput = 8.4824010666666663 [Mbps]
+      Stable Throughput = 8.7221142857142961 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          55
+
+TCP1 Average Throughput = 8.8645210666666667 [Mbps]
+      Stable Throughput = 9.124157142857154 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          51
+
+TCP1 Average Throughput = 8.6310410666666666 [Mbps]
+      Stable Throughput = 8.8781571428571535 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          52
+
+TCP1 Average Throughput = 8.781321066666667 [Mbps]
+      Stable Throughput = 9.0347142857142959 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          60
+
+TCP1 Average Throughput = 8.6375210666666664 [Mbps]
+      Stable Throughput = 8.874042857142868 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          60
+
+TCP1 Average Throughput = 8.9598410666666659 [Mbps]
+      Stable Throughput = 9.2194714285714401 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          65
+
+TCP1 Average Throughput = 8.4548010666666666 [Mbps]
+      Stable Throughput = 8.6747142857142965 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          65
+
+TCP1 Average Throughput = 9.0204010666666665 [Mbps]
+      Stable Throughput = 9.2815285714285825 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          65
+
+TCP1 Average Throughput = 9.0187610666666664 [Mbps]
+      Stable Throughput = 9.2800285714285824 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          70
+
+TCP1 Average Throughput = 9.0954410666666661 [Mbps]
+      Stable Throughput = 9.3499714285714397 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ ns tcp.tcl
+ When configured, ns found the right version of tclsh in /usr/bin/tclsh8.6
+but it doesn't seem to be there anymore, so ns will fall back on running the first tclsh in your path. The wrong version of tclsh may break the test suites. Reconfigure and rebuild ns if this is a problem. 
+.....................
+.......................................................................................................................................................................................................................................................................................
+
+Simulation time      300
+Initialization time  20
+Active sources       [1 0 0 1]
+TCP Windows          [5000 5000 5000]
+Link delay           70ms
+Link capacity        10Mb
+Link buffer          70
+
+TCP1 Average Throughput = 8.8494810666666659 [Mbps]
+      Stable Throughput = 9.08537142857144 [Mbps]
+TCP2 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+TCP3 Average Throughput = 0.0 [Mbps]
+      Stable Throughput = 0.0 [Mbps]
+]0;tcp@IPlab: ~tcp@IPlab:~$ 
