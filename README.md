@@ -1,5 +1,6 @@
 # EINTE_Labs
-Laboratory tasks from Internet Technologies and Standards course
+Laboratory tasks from Internet Technologies and Standards course\
+Done during my 5th semester of studies, 2021 winter.
 
 ## Tasks
 1. TCP analysis on a simulated network (ns3 simulator)
